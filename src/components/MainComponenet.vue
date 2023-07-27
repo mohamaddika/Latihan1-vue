@@ -13,7 +13,7 @@
                                        JBM didirikan oleh Saya sendiri Yaitu Muhammaddika pada tanggal 27.07.2003. Keberadaan dari toko online ini diharapkan dapat mempermudah Anda untuk mencari dan membeli hewan musang.</p>
     </figure>
     <figure  class="flex flex-col  items-center justify-center text-center bg-white   rounded-0">
-         <img src="https://img.freepik.com/free-vector/about-us-concept-illustration_114360-639.jpg?w=2000" width="350">
+         <img src="https://yt3.googleusercontent.com/ytc/AOPolaQgNDqfxvXBJ48RUMR7Rbt63HFc86m_6OGO6Y7tgQ=s900-c-k-c0x00ffffff-no-rj" width="350">
     </figure>
 </div>
 </div>
