@@ -6,13 +6,13 @@ import { Button } from 'flowbite-vue';
     <div class="basis-1/2">
       <h1 class="selamatdatang pt-16">Welcome.</h1>
       <p class="font-semibold">
-        JASA JUAL BELI MUSANG.
+        JASA JUAL BELI HEWAN MUSANG.
       </p>
       <p class="font-semibold"></p>
       <a href="#Kunjungi"><Button color="default" class="mt-4" pill>Kunjungi</Button></a>
     </div>
     <div class="basis-1/2">
-      <img src="unnamed.jpg" width="380" alt="" class="ml-8 hover:scale-125 transition-all hover:hue-rotate-180" />
+      <img src="https://yt3.googleusercontent.com/ytc/AOPolaQgNDqfxvXBJ48RUMR7Rbt63HFc86m_6OGO6Y7tgQ=s900-c-k-c0x00ffffff-no-rj" width="380" alt="" class="ml-8 hover:scale-125 transition-all hover:hue-rotate" />
     </div>
   </div>
 </template>

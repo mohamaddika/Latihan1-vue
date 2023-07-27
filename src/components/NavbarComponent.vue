@@ -4,7 +4,7 @@
       <NavbarLogo
         link="https://www.google.com/"
         alt="Flowbite logo"
-        image-url="unnamed.jpg"
+        image-url="https://yt3.googleusercontent.com/ytc/AOPolaQgNDqfxvXBJ48RUMR7Rbt63HFc86m_6OGO6Y7tgQ=s900-c-k-c0x00ffffff-no-rj"
         class="hover:scale-125 transition-all"
       >
         JBM STORE
